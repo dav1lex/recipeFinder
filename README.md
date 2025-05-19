@@ -1,4 +1,4 @@
-Team Members: Fatih ASA 36470 - Fatih ALAN 36468 - Ahmet Bostan 39810 - Muhammed Uygur 35655
+Team Members: Fatih ASA 36470 - Fatih ALAN 36468 - Ahmet Bostan 39810 - Muhammed Ugur 35655
 
 # 🍽️ Recipe Finder - A Progressive Web App (PWA)
 
